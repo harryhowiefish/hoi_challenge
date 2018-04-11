@@ -1,0 +1,4 @@
+retinanet pretrain weight: https://github.com/fizyr/keras-retinanet/releases/ 
+
+要clone這個git hub然後 pip install keras-retinanet
+https://github.com/fizyr/keras-retinanet
